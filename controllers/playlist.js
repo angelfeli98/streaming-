@@ -1,6 +1,6 @@
 'use stric'
 
-var Playlist = require('../models/Playlist');
+var Playlist = require('../models/playlist');
 var Cancion = require('../models/cancion');
 var Artista = require('../models/artista');
 var Album = require('../models/album');
