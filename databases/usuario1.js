@@ -1,4 +1,4 @@
-const uri= "mongodb+srv://angelfelipe:angelfelipe@servidor2-ubkzd.mongodb.net/Paax?retryWrites=true&w=majority";
+const uri= "mongodb+srv://feli:feli@cluster0-eyagj.mongodb.net/test?retryWrites=true&w=majority";
 var usuario = require('mongoose');
 
 options = {
